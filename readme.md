@@ -1,5 +1,5 @@
 ### The Project:
-This repo contains a simple Phonebook Management class ``phonebook.py`` with it respective unit case test file. The goal is to execute the run the tests everytime a push is made into the project.
+This repo contains a simple Phonebook Management class ``phonebook.py`` with it respective unit case test file. The goal is to run the tests everytime a push is made into the project.
 #
 ### How it works:
 Checkout the <a href="https://github.com/talesricr/ci-cd-sample/blob/main/.github/workflows/blank.yml">``.github/workflows/blank.yml``</a> file.
